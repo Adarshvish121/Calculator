@@ -1,0 +1,28 @@
+.text
+{
+    text-align: center;
+    border: 2px solid red;
+    color: white;
+}
+
+.mx-auto
+{
+margin: auto;
+}
+
+.flex
+{
+    display: flex;
+}
+.flex-col
+{
+    flex-direction: column;
+}
+.items-center
+{
+align-items: center;
+}
+.box
+{
+    border: 2px solid black;
+}
